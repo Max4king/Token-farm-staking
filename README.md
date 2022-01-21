@@ -28,8 +28,8 @@ npm install ganache-cli@latest --global
 ```
 Pipx
 ```
-python3 -m pip install --user pipx
-python3 -m pipx ensurepath
+python -m pip install --user pipx
+python -m pipx ensurepath
 ```
 Eth-brownie
 ```
