@@ -16,22 +16,22 @@ all installation on terminal
 
 Web3
 ```
-$ pip install web3
+pip install web3
 ```
 Py-sloc
 ```
-$ pip install py-solc-x
+pip install py-solc-x
 ```
 Ganache-cli
 ```
-$ npm install ganache-cli@latest --global
+npm install ganache-cli@latest --global
 ```
 Pipx
 ```
-$ python3 -m pip install --user pipx
-$ python3 -m pipx ensurepath
+python3 -m pip install --user pipx
+python3 -m pipx ensurepath
 ```
 Eth-brownie
 ```
-$ pipx install eth-brownie
+pipx install eth-brownie
 ```
