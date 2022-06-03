@@ -24,7 +24,7 @@ pip install py-solc-x
 ```
 Ganache-cli
 ```
-npm install ganache-cli@latest --global
+npm install ganache@latest --global
 ```
 Pipx
 ```
